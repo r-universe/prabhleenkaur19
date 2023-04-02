@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "aniSNA"]
 	path = aniSNA
-	url = https://github.com/cran/aniSNA
+	url = https://github.com/prabhleenkaur19/anisna
 	shallow = true
 	registered = true
